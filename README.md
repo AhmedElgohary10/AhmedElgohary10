@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elgohary</h1>
-<h3 align="center">A 25 year old passionate web developer from Egypt</h3>
+<h3 align="center">A 25 year old passionate web developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
