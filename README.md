@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elgohary</h1>
-<h3 align="center">A 25 year old passionate junior .NET full-stack developer</h3>
+<h3 align="center">A Passionate Junior .NET Full-Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <h5>gohary200023@gmail.com</h5>
