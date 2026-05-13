@@ -2,10 +2,10 @@
 <h3 align="center">Full Stack Developer | .NET & Angular Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@ahmedelgohary00" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ahmed-elgohary-9023b9318" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/30622042/ahmed-elgohary" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@ahmedelgohary00" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/gohary200023" target="blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/30622042/ahmed-elgohary" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
   <a href="https://leetcode.com/gohary10" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
@@ -13,7 +13,6 @@
 
 ### ⚡ About Me
 - 🚀 Currently working as a **Junior Full Stack Developer**.
-- 🛠️ Deeply interested in **Clean Architecture**, **Repository Patterns**, and **Specification Patterns**.
 - 🎮 Hobbyist **Indie Game Developer** using Unity and C#.
 - 📫 Reach me at: **gohary200023@gmail.com**
 
