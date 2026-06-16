@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elgohary.</h1>
-<h3 align="center">Full Stack Developer | .NET & Angular Enthusiast</h3>
+<h3 align="center">Full Stack Developer | .NET • Angular • T-SQL </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-elgohary-9023b9318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-268BD2?style=flat-square&logo=linkedin&logoColor=FDF6E3" alt="LinkedIn" /></a>
@@ -12,10 +12,10 @@
 ---
 
 <p align="center">
-  🚀 Currently working as a <strong>Junior Full Stack Developer</strong>
-  <br />
-  🎮 Hobbyist <strong>Indie Game Developer</strong> using Unity & C#
-  <br />
+  <!-- 🚀 Currently working as a <strong>Junior Full Stack Developer</strong>
+  <br /> -->
+  <!-- 🎮 Hobbyist <strong>Indie Game Developer</strong> using Unity & C#
+  <br /> -->
   📫 Reach me at: <strong>gohary200023@gmail.com</strong>
 </p>
 
