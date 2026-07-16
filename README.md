@@ -9,7 +9,6 @@
   <a href="https://leetcode.com/gohary10" target="_blank"><img src="https://img.shields.io/badge/LeetCode-D33682?style=flat-square&logo=LeetCode&logoColor=FDF6E3" alt="LeetCode" /></a>
 </p>
 
----
 
 <p align="center">
   <!-- 🚀 Currently working as a <strong>Junior Full Stack Developer</strong>
@@ -19,7 +18,6 @@
   📫 Reach me at: <strong>gohary200023@gmail.com</strong>
 </p>
 
----
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
