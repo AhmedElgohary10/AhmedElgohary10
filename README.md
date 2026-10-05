@@ -9,15 +9,15 @@
   <a href="https://www.youtube.com/@ahmedelgohary00" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.hackerrank.com/profile/gohary200023" target="_blank">
+  <!-- <a href="https://www.hackerrank.com/profile/gohary200023" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://stackoverflow.com/users/30622042/ahmed-elgohary" target="_blank">
+  </a> -->
+  <!-- <a href="https://stackoverflow.com/users/30622042/ahmed-elgohary" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://leetcode.com/gohary10" target="_blank">
+  </a> -->
+  <!-- <a href="https://leetcode.com/gohary10" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  </a> -->
 </p>
 
 ---
