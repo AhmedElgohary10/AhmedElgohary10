@@ -1,6 +1,6 @@
 <h1 align="center">Ahmed Elgohary</h1>
 
-<h3 align="center">Full Stack Developer | .NET • Angular • SQL Server</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-elgohary-9023b9318" target="_blank">
